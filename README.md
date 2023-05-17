@@ -1,4 +1,4 @@
-# Task-Manager
+# Console Task Manager
 Console Task Manager is a simple command-line tool designed to help users manage their tasks efficiently. The tool allows users to create, edit, and delete tasks with ease.
 
 **Features**
