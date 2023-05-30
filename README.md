@@ -14,4 +14,20 @@ Console Task Manager is a simple command-line tool designed to help users manage
 **Usage**
 ```
 git clone https://github.com/FloyzenCode/Task-Manager/
+cd Task-Manager
 ```
+**Compile & Run**
+- GCC
+```
+g++ main.cpp
+./a
+```
+- Clang
+```
+clang++ -o file main.cpp
+./file
+```
+---
+**This project is introductory for beginners**
+---
+![C++ for beginners](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230304231205/C-Language2.png)
